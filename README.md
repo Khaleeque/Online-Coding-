@@ -1,8 +1,8 @@
 Online-Coding-
 ==============
 
-Project Euler Solutions
-Codechef Solutions
-Hackerrank Solutions
-CodeJam Solutions
+Project Euler Solutions \n
+Codechef Solutions \n
+Hackerrank Solutions \n
+CodeJam Solutions \n
 
